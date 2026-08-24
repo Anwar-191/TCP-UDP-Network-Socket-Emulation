@@ -18,7 +18,6 @@ By utilizing Python's built-in networking libraries, this project demonstrates h
 *   `tcp_server.py`: The primary TCP server script handling multi-threaded connections[cite: 9].
 *   `udp_server.py`: The connectionless UDP server script[cite: 10].
 *   `client.py`: The interactive client application for dispatching payloads[cite: 7].
-*   `Lab2.pdf`: A comprehensive laboratory report detailing the code's logic, execution steps, and verification screenshots[cite: 8, 11].
 
 ## 🦈 Network Traffic Analysis (Wireshark)
 
